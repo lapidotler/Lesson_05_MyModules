@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="welcome">Welcome to my Module Page!</string>
+    <string name="feature">Modules featured are ones I am taking for \n<b>Year 2, Semester 1:</b></string>
+
+    <string name="c218">C218 - UI/UX Design for Apps</string>
+    <string name="c235">C235 - IT Security and Management</string>
+    <string name="c346">C346 - Mobile App Development</string>
+    <string name="c206">C206 - Software Development Process</string>
+    <string name="g953">G953 - Life Skills III</string>
+    <string name="c203">C203 - Web AppIn Development in php</string>
+    <string name="c390">C390 - Portfolio Development</string>
+
+    <string name="module_code">Module Code: </string>
+    <string name="module_name">Module Name: </string>
+    <string name="academic_year">Academic Year: </string>
+    <string name="semester">Semester: </string>
+    <string name="module_credit">Module Credit: </string>
+    <string name="venue">Venue: </string>
+    <string name="lecturer_c218">Lecturer: Stanley Tan</string>
+    <string name="manager_c218">Module Manager: Stanley Tan</string>
+    <string name="lecturer_c235">Lecturer: Hygin Fernandez</string>
+    <string name="manager_c235">Module Manager: Ho Chee Wai</string>
+    <string name="lecturer_c346">Lecturer: Andy Tao</string>
+    <string name="manager_c346">Module Manager: Andy Tao</string>
+    <string name="manager_c206">Module Manager: Amran Mohamed</string>
+    <string name="lecturer_c206">Lecturer: Yong Yoke Fong</string>
+    <string name="manager_g953">Module Manager: Andrew V</string>
+    <string name="lecturer_c203">Lecturer: Annie Ong</string>
+    <string name="manager_c203">Module Manager: Hannah Lim</string>
+</resources>
